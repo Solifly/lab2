@@ -1,0 +1,15 @@
+/Users/vadimvelko/RiderProjects/Lab2/Lab2/bin/Debug/net6.0/Lab2
+/Users/vadimvelko/RiderProjects/Lab2/Lab2/bin/Debug/net6.0/Lab2.deps.json
+/Users/vadimvelko/RiderProjects/Lab2/Lab2/bin/Debug/net6.0/Lab2.runtimeconfig.json
+/Users/vadimvelko/RiderProjects/Lab2/Lab2/bin/Debug/net6.0/Lab2.dll
+/Users/vadimvelko/RiderProjects/Lab2/Lab2/bin/Debug/net6.0/Lab2.pdb
+/Users/vadimvelko/RiderProjects/Lab2/Lab2/obj/Debug/net6.0/Lab2.csproj.AssemblyReference.cache
+/Users/vadimvelko/RiderProjects/Lab2/Lab2/obj/Debug/net6.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadimvelko/RiderProjects/Lab2/Lab2/obj/Debug/net6.0/Lab2.AssemblyInfoInputs.cache
+/Users/vadimvelko/RiderProjects/Lab2/Lab2/obj/Debug/net6.0/Lab2.AssemblyInfo.cs
+/Users/vadimvelko/RiderProjects/Lab2/Lab2/obj/Debug/net6.0/Lab2.csproj.CoreCompileInputs.cache
+/Users/vadimvelko/RiderProjects/Lab2/Lab2/obj/Debug/net6.0/Lab2.dll
+/Users/vadimvelko/RiderProjects/Lab2/Lab2/obj/Debug/net6.0/refint/Lab2.dll
+/Users/vadimvelko/RiderProjects/Lab2/Lab2/obj/Debug/net6.0/Lab2.pdb
+/Users/vadimvelko/RiderProjects/Lab2/Lab2/obj/Debug/net6.0/Lab2.genruntimeconfig.cache
+/Users/vadimvelko/RiderProjects/Lab2/Lab2/obj/Debug/net6.0/ref/Lab2.dll
